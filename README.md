@@ -1,22 +1,33 @@
 # LiveATLOLife
 参考：[穷游网富士山](https://place.qyer.com/poi/V2MJYlFiBzZTZw/)
 [小红书富士山一日游](https://www.xiaohongshu.com/search_result?keyword=%25E5%25AF%258C%25E5%25A3%25AB%25E5%25B1%25B1%25E4%25B8%2580%25E6%2597%25A5%25E6%25B8%25B8&source=web_search_result_notes)
-提前需要准备的装备：[富士山现在的天气（每小时更新）]长袖  
+提前需要准备的装备：[富士山现在的天气（每小时更新）]长袖  薄外套 气温在15-25度左右   
+交通方式：  
+城际: 京都站-三岛站 
+往返富士山下:   
+[特快巴士票预定(基本上定完了)](https://sekitori.jp/zh-CHS/apps/results/)  
+出租(15000-17000円)   
+公交 2h 早上6.30-下午16.20有发车到达三岛站  
+更晚的交通方式可能需要前往东京转车 或者再住一天
+[交通图](https://www.yamanashi-kankou.jp/fujisanwatcher/cn/route/index.html)  
+住宿地点：  
+河口湖附近 fuji lake hotel(92400円4人1晚)/湖舞家(24,552円4人1晚)   需要当晚出租到河口湖站 
+三岛站附近   
+爬山路线：只能到五台目观光台   
+主要地点：  
+1. 吉田站 富士浅间神社（需要去下吉田站，然后爬山）  日川时计店街景(下吉田站旁)   
+2. 河口湖站 河口湖 网红罗森拍照点(河湖口站) 缆车(河湖口站) 
+
 饮食地点：  
 1.一出河口湖站对面就有一家富士山特色拉面店  
 2.整个富士山周边评分最高的叫做【小作】  
 3.【鱼重】，生鱼饭和鳗鱼饭  
 4. 河口湖有一些咖啡厅, 富士山造型的吐司🍞叫做fujisan shokupan  
 ![Image text](https://github.com/WeiboMaoD4U/LiveATLOLife/blob/main/IMG/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E9%9D%A2%E5%8C%85.png)
-交通方式：[交通图](https://www.yamanashi-kankou.jp/fujisanwatcher/cn/route/index.html)
-住宿地点：fuji lake hotel/湖南莊
-爬山路线：只能到五台目观光台 
-主要地点：河口湖 网红罗森拍照点 缆车 富士浅间神社（需要去下吉田站，然后爬山） 和日川时计店街景
+
+游玩全流程计划：  
+周五下午19:00左右出发:  
+京都站:  
 
 可能遇到的困难：
 
-游玩全流程计划：
-
-
-
-周五下午
