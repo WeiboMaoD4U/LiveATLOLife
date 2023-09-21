@@ -1,7 +1,7 @@
 # LiveATLOLife
 参考：[穷游网富士山](https://place.qyer.com/poi/V2MJYlFiBzZTZw/)
 [小红书富士山一日游](https://www.xiaohongshu.com/search_result?keyword=%25E5%25AF%258C%25E5%25A3%25AB%25E5%25B1%25B1%25E4%25B8%2580%25E6%2597%25A5%25E6%25B8%25B8&source=web_search_result_notes)
-提前需要准备的装备：[富士山现在的天气（每小时更新）]长袖
+提前需要准备的装备：[富士山现在的天气（每小时更新）]长袖  
 饮食地点：1.一出河口湖站对面就有一家富士山特色拉面店
 2.整个富士山周边评分最高的叫做【小作】
 3.【鱼重】，生鱼饭和鳗鱼饭
