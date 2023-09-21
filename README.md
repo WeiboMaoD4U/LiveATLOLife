@@ -1,13 +1,11 @@
-# LiveATLOLife
-参考：[穷游网富士山](https://place.qyer.com/poi/V2MJYlFiBzZTZw/)
-[小红书富士山一日游](https://www.xiaohongshu.com/search_result?keyword=%25E5%25AF%258C%25E5%25A3%25AB%25E5%25B1%25B1%25E4%25B8%2580%25E6%2597%25A5%25E6%25B8%25B8&source=web_search_result_notes)
-提前需要准备的装备：[富士山现在的天气（每小时更新）]长袖  薄外套 气温在15-25度左右   
-交通方式：  
+# LiveATLOLife 
+提前需要准备的装备：长袖/薄外套(气温在15-25度左右)   钱
+交通方式::  
 城际: 京都站-三岛站 
 往返富士山下:   
 [特快巴士票预定(基本上定完了)](https://sekitori.jp/zh-CHS/apps/results/)  
 出租(15000-17000円)   
-公交 2h 早上6.30-下午16.20有发车到达三岛站  
+公交 2h 早上6.30-下午17.20有发车到达三岛站  
 更晚的交通方式可能需要前往东京转车 或者再住一天
 [交通图](https://www.yamanashi-kankou.jp/fujisanwatcher/cn/route/index.html)  
 住宿地点：  
