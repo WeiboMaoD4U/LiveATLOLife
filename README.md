@@ -34,5 +34,6 @@
 吉田站附近下午 新仓山浅间神社 日川计时店
 
 地图![image](https://github.com/WeiboMaoD4U/LiveATLOLife/blob/main/IMG/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E8%B7%AF%E7%BA%BF.png)
-可能遇到的困难：
+可能遇到的困难：星期六我们可能会遇到雨天,富士山可能不会太清晰.不过非线性方程对初值的依赖极其敏感. 云雨天比晴天来说富士山的变化也更大了,几乎是富士山私有了.
+
 
