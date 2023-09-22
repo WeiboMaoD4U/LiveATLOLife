@@ -1,7 +1,7 @@
 # LiveATLOLife 
 提前需要准备的装备：长袖/薄外套(气温在15-25度左右)   钱
 交通方式::  
-城际: 去程[YITP-河口湖站]([https://maps.app.goo.gl/iHFfoxWtn2yoabUMA](https://maps.app.goo.gl/1YjX9b4GzmRVYNmH7))
+城际: 去程[YITP-河口湖站](https://maps.app.goo.gl/iHFfoxWtn2yoabUMA)(https://maps.app.goo.gl/1YjX9b4GzmRVYNmH7))
 返程末班车(待定)[河口湖回京都](https://maps.app.goo.gl/sJsRhEKHYAZbErrF6)
 往返富士山下:   
 [特快巴士票预定(基本上定完了)](https://sekitori.jp/zh-CHS/apps/results/)  
