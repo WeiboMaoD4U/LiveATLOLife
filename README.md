@@ -36,7 +36,7 @@
  河湖口站附近上午 天上山公园
 吉田站附近下午 新仓山浅间神社 日川计时店  
 第三类: 封山季登山 直接翻过护栏进去就可以 五台目以上没有补给,需要在五台目准备一下.[参考](https://www.xiaohongshu.com/explore/64aa6f26000000001e019b34)
-
+![image](https://github.com/WeiboMaoD4U/LiveATLOLife/blob/main/IMG/%E5%BC%BA%E8%A1%8C%E7%99%BB%E5%B1%B1.png)
 地图![image](https://github.com/WeiboMaoD4U/LiveATLOLife/blob/main/IMG/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E8%B7%AF%E7%BA%BF.png)
 可能遇到的困难：星期六我们可能会遇到雨天,富士山可能不会太清晰.不过非线性方程对初值的依赖极其敏感. 云雨天比晴天来说富士山的变化也更大了,几乎是富士山私有了.
 
