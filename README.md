@@ -1,7 +1,8 @@
 # LiveATLOLife 
 提前需要准备的装备：长袖/薄外套(气温在15-25度左右)   钱
 交通方式::  
-城际: 京都站-三岛站 
+城际: 去程[YITP-河口湖站]([https://maps.app.goo.gl/iHFfoxWtn2yoabUMA](https://maps.app.goo.gl/1YjX9b4GzmRVYNmH7))
+返程末班车(待定)[河口湖回京都](https://maps.app.goo.gl/sJsRhEKHYAZbErrF6)
 往返富士山下:   
 [特快巴士票预定(基本上定完了)](https://sekitori.jp/zh-CHS/apps/results/)  
 出租(15000-17000円)   
@@ -24,8 +25,8 @@
 ![Image text](https://github.com/WeiboMaoD4U/LiveATLOLife/blob/main/IMG/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E9%9D%A2%E5%8C%85.png)
 
 游玩全流程计划：  
-周五下午19:00左右出发:  
-京都站:  
+周五下午16:00左右出发5h直达河口湖站,入住,第二天安排
+
 
 可能遇到的困难：
 
