@@ -1,4 +1,5 @@
 # LiveATLOLife 
+![image](https://github.com/WeiboMaoD4U/LiveATLOLife/blob/main/IMG/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E8%83%BD%E8%A7%81%E5%BA%A6.png)
 提前需要准备的装备：长袖/薄外套(气温在15-25度左右)   钱
 交通方式::  
 城际: 去程[YITP-河口湖站](https://maps.app.goo.gl/iHFfoxWtn2yoabUMA)(https://maps.app.goo.gl/1YjX9b4GzmRVYNmH7))
