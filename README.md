@@ -21,7 +21,10 @@
 2.整个富士山周边评分最高的叫做【小作】  
 3.【鱼重】，生鱼饭和鳗鱼饭  
 4. 河口湖有一些咖啡厅, 富士山造型的吐司🍞叫做fujisan shokupan  
-![Image text](https://github.com/WeiboMaoD4U/LiveATLOLife/blob/main/IMG/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E9%9D%A2%E5%8C%85.png)
+![Image text](https://github.com/WeiboMaoD4U/LiveATLOLife/blob/main/IMG/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E9%9D%A2%E5%8C%85.png)   
+纪念品:    
+饼干类 shokupan就有 河口湖车站旁  
+御守或者纪念木牌 富士山五台目 
 
 游玩全流程计划：  
 周五下午16:00左右出发5.5h多次换乘到达河口湖站,步行30分钟到达[入住地点](https://goo.gl/maps/7cwCtvPgVFDKSucy5).   
@@ -31,7 +34,8 @@
 [河口湖站->罗森便利店->河口湖大桥->河口湖森林美术馆->浅间神社->日川时针社](https://www.xiaohongshu.com/explore/64889016000000001301661d)
 第二类:河口湖游玩套票(河湖口站购买)
  河湖口站附近上午 天上山公园
-吉田站附近下午 新仓山浅间神社 日川计时店
+吉田站附近下午 新仓山浅间神社 日川计时店  
+第三类: 封山季登山 直接翻过护栏进去就可以 五台目以上没有补给,需要在五台目准备一下.[参考](https://www.xiaohongshu.com/explore/64aa6f26000000001e019b34)
 
 地图![image](https://github.com/WeiboMaoD4U/LiveATLOLife/blob/main/IMG/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E8%B7%AF%E7%BA%BF.png)
 可能遇到的困难：星期六我们可能会遇到雨天,富士山可能不会太清晰.不过非线性方程对初值的依赖极其敏感. 云雨天比晴天来说富士山的变化也更大了,几乎是富士山私有了.
